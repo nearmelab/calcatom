@@ -1,0 +1,39 @@
+body:
+  - type: textarea
+    attributes:
+      label: Your question or topic
+      description: Ask anything about Calcatom - features, usage, or suggestions
+      placeholder: Be specific and kind. We're here to help! 😊
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Extension version
+      description: Find this in your browser's extension page (e.g., 0.1.1)
+      placeholder: "0.1.1"
+    validations:
+      required: false
+
+  - type: dropdown
+    attributes:
+      label: Browser
+      description: Which browser are you using?
+      options:
+        - Firefox
+        - Microsoft Edge
+        - Opera
+        - Chrome
+        - Other
+    validations:
+      required: false
+
+  - type: checkboxes
+    attributes:
+      label: Discussion type
+      description: What's this about? (optional)
+      options:
+        - label: Feature request
+        - label: General question
+        - label: Feedback or suggestion
+        - label: Show & tell
