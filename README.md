@@ -6,4 +6,4 @@
 [![Documentation Wiki](https://img.shields.io/badge/documentation-wiki-red?style=for-the-badge&logoColor=orange)](https://github.com/nearmelab/calcatom/wiki)
 
 
-<img width="500" src="https://github.com/nearmelab/calcatom/blob/main/public/img/calcatom-white.png">
+<img width="500" src="https://github.com/nearmelab/calcatom/blob/main/public/img/calcatom-be-white.png">
