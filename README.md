@@ -7,7 +7,7 @@
 
 If you have good ideas, Welcome to build together 👏👏👏
 
-<img width="600" src="https://github.com/nearmelab/calcatom/blob/main/public/img/opera-calcatom-show1.png">
-<img width="600" src="https://github.com/nearmelab/calcatom/blob/main/public/img/msedge-calcatom-show2.png">
-<img width="600" src="https://github.com/nearmelab/calcatom/blob/main/public/img/firefox-calcatom-show3.png">
+<img width="600" src="https://github.com/nearmelab/calcatom/blob/main/public/img/opera-calcatom-show.png">
+<img width="600" src="https://github.com/nearmelab/calcatom/blob/main/public/img/msedge-calcatom-show.png">
+<img width="600" src="https://github.com/nearmelab/calcatom/blob/main/public/img/firefox-calcatom-show.png">
 
